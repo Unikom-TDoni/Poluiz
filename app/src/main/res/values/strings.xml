@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">poluiz</string>
+    <string name="facebook_app_id">1098176847748885</string>
+    <string name="fb_login_protocol_scheme">fb1098176847748885</string>
+    <string name="facebook_client_token">2c799950d1e2646f5e77ad3bf99861f3</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "409173111577",
+    "project_id": "poluiz-1e2ed",
+    "storage_bucket": "poluiz-1e2ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409173111577:android:bf02763611c65e62240b88",
+        "android_client_info": {
+          "package_name": "com.lnco.poluiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409173111577-5b4eun5chnjp9mcugke9ag3eirrs5a4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lnco.poluiz",
+            "certificate_hash": "2bdf61bd39216fed0e75095771f445730302aada"
+          }
+        },
+        {
+          "client_id": "409173111577-gdmo7fjqh0ai57m7mmrclokoll4fdmc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMUNU3IpyNRHAxM8mOlVcYJsg6pLmuuqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409173111577-gdmo7fjqh0ai57m7mmrclokoll4fdmc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
