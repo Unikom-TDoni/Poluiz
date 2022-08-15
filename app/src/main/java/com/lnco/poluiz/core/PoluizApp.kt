@@ -9,7 +9,7 @@ import androidx.navigation.compose.composable
 import androidx.navigation.navArgument
 import com.facebook.CallbackManager
 import com.lnco.poluiz.core.navigation.PageNames
-import com.lnco.poluiz.feature.presentation.page.*
+import com.lnco.poluiz.feature.presentation.atomic.page.*
 import com.lnco.poluiz.feature.presentation.view_model.LeaderboardViewModel
 import com.lnco.poluiz.feature.presentation.view_model.UserViewModel
 
